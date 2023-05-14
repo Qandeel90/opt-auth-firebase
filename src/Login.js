@@ -52,7 +52,10 @@ function Login() {
     setLoading(true);
     onCaptchVerify();
 
-    const appVerifier = window.recaptchaVerifier;
+    //const appVerifier = window.recaptchaVerifier;
+    var appVerifier = new firebase.auth.RecaptchaVerifier(
+      "recaptcha-container"
+    );
 
     signInWithPhoneNumber(auth, value, appVerifier)
       .then((confirmationResult) => {
