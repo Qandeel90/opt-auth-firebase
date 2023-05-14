@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/opt-auth-firebase/static/css/main.24875755.css",
+    "main.js": "/opt-auth-firebase/static/js/main.f2bab390.js",
+    "static/js/787.e946434b.chunk.js": "/opt-auth-firebase/static/js/787.e946434b.chunk.js",
+    "index.html": "/opt-auth-firebase/index.html",
+    "main.24875755.css.map": "/opt-auth-firebase/static/css/main.24875755.css.map",
+    "main.f2bab390.js.map": "/opt-auth-firebase/static/js/main.f2bab390.js.map",
+    "787.e946434b.chunk.js.map": "/opt-auth-firebase/static/js/787.e946434b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.24875755.css",
+    "static/js/main.f2bab390.js"
+  ]
+}
