@@ -13,6 +13,11 @@ import OtpInput from "react-otp-input";
 import { toast, Toaster } from "react-hot-toast";
 
 function Login() {
+  window.recaptchaVerifier = new RecaptchaVerifier(
+    "recaptcha-container",
+    {},
+    auth
+  );
   const [value, setValue] = React.useState("");
   const [otp, setOtp] = useState("");
   const [loading, setLoading] = useState(false);
