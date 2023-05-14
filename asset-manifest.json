@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/opt-auth-firebase/static/css/main.24875755.css",
-    "main.js": "/opt-auth-firebase/static/js/main.1594a66b.js",
+    "main.js": "/opt-auth-firebase/static/js/main.13a6e199.js",
     "static/js/787.e946434b.chunk.js": "/opt-auth-firebase/static/js/787.e946434b.chunk.js",
     "index.html": "/opt-auth-firebase/index.html",
     "main.24875755.css.map": "/opt-auth-firebase/static/css/main.24875755.css.map",
-    "main.1594a66b.js.map": "/opt-auth-firebase/static/js/main.1594a66b.js.map",
+    "main.13a6e199.js.map": "/opt-auth-firebase/static/js/main.13a6e199.js.map",
     "787.e946434b.chunk.js.map": "/opt-auth-firebase/static/js/787.e946434b.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.24875755.css",
-    "static/js/main.1594a66b.js"
+    "static/js/main.13a6e199.js"
   ]
 }
